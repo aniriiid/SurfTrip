@@ -1280,7 +1280,8 @@ form {
   }
 
   .time_btn {
-    padding: 1.7vw 3.9vw;
+    /* padding: 1.7vw 3.9vw; */
+    padding: 10px 20px;
     cursor: pointer;
     font-family: 'GilroyLight';
     font-size: 1.6vw;
